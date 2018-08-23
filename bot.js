@@ -6,15 +6,15 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-```fix
+**
 - اخوى ممكن طلب لو تقدر
 - ادخل هون صوتلى لو سمحت
 - رابط المسابقه مباشر لعيونك
-```
+**
 مشترك رقم **11**
 
-```hex
-فضلا وليس امرا من فضلك```
+**
+فضلا وليس امرا من فضلك**
  
 - http://prntscr.com/km789v
 
@@ -22,7 +22,7 @@ console.log("Welcome Again !");
 
 
 آمل أن تصوت لي... [ ${member}  ]
-`)
+**`)
 }).catch(console.error)
 
 })
@@ -30,15 +30,15 @@ console.log("Welcome Again !");
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-```fix
+**
 - اخوى ممكن طلب لو تقدر
 - ادخل هون صوتلى لو سمحت
 - رابط المسابقه مباشر لعيونك
-```
+**
 مشترك رقم **11**
 
-```hex
-فضلا وليس امرا من فضلك```
+**
+فضلا وليس امرا من فضلك**
  
 - http://prntscr.com/km789v
 
@@ -46,7 +46,7 @@ client.on("guildMemberAdd", member => {
 
 ممكن؟
 آمل أن تصوت لي... [ ${member}  ]
-`) 
+**`) 
 }).catch(console.error)
 })
 
