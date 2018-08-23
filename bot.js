@@ -7,19 +7,17 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-:kissing::heart::eyes: حيااكْ الله  فى سيرفرنا 
-WELCOME
-‏نقدم لك دعوة لسموك الراقيَ .
-‏لنحظى بجمال حضورك وتواجدك
-•بتنـورونـا الجميع :wink:
-•اي مشكله توآجهك ولا يهمك. عندك الاداره تفضل ونحل مشكلتك مع آي شخص بالسيرفر.:telephone_receiver:
-•عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
-•واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
-شرفنا يا عسل:wink: :kissing_heart:
-**VICTOOR server**
-https://discord.gg/7HgQU8s
-                     
-الدعووة خاصة لك ي قلبي ... [ ${member}  ]
+السلام عليكم ورحمة الله وبركاته
+هل لديك وقت؟
+تصويت رقم 11 من فضلك :sparkling_heart: 
+**-صوتولي   __11__
+ 
+- http://prntscr.com/klpv9a
+
+- https://discord.gg/gkXrKfs
+
+ممكن؟
+آمل أن تصوت لي... [ ${member}  ]
 **`)
 }).catch(console.error)
 
@@ -29,18 +27,17 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-:kissing::heart::eyes: حيااكْ الله  فى سيرفرنا 
-WELCOME
-‏نقدم لك دعوة لسموك الراقيَ .
-‏لنحظى بجمال حضورك وتواجدك
-•بتنـورونـا الجميع :wink:
-•اي مشكله توآجهك ولا يهمك. عندك الاداره تفضل ونحل مشكلتك مع آي شخص بالسيرفر.:telephone_receiver:
-•عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
-•واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
-شرفنا يا عسل:wink: :kissing_heart:
-**VICTOOR server**
-https://discord.gg/7HgQU8s
-الدعووة خاصة لك ي قلبي ... [ ${member}  ]
+السلام عليكم ورحمة الله وبركاته
+هل لديك وقت؟
+تصويت رقم 11 من فضلك :sparkling_heart: 
+**-صوتولي   __11__
+ 
+- http://prntscr.com/klpv9a
+
+- https://discord.gg/gkXrKfs
+**
+ممكن؟
+آمل أن تصوت لي... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
