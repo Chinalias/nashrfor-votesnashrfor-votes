@@ -12,7 +12,7 @@ console.log("Welcome Again !");
 تصويت رقم 11 من فضلك :sparkling_heart: 
 **-صوتولي   __11__
  
-- http://prntscr.com/klpv9a
+- http://prntscr.com/klwdet
 
 - https://discord.gg/gkXrKfs
 
@@ -32,7 +32,7 @@ client.on("guildMemberAdd", member => {
 تصويت رقم 11 من فضلك :sparkling_heart: 
 **-صوتولي   __11__
  
-- http://prntscr.com/klpv9a
+- http://prntscr.com/klwdet
 
 - https://discord.gg/gkXrKfs
 **
