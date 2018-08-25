@@ -6,47 +6,33 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-- اخوى ممكن طلب لو تقدر
-- ادخل هون صوتلى لو سمحت
-- رابط المسابقه مباشر لعيونك
-**
-مشترك رقم **11**
-
-**
-فضلا وليس امرا من فضلك**
- 
-- http://prntscr.com/km789v
-
-- https://discord.gg/gkXrKfs
-
-
-آمل أن تصوت لي... [ ${member}  ]
-**`)
+** ي قلبي ابيك تصوت للمتسابق رقم 11
+ربي يسعدك ويدخلك الجنه لو صوتت 
+الله يسعدك :(
+-
+Photo : http://prntscr.com/km789v
+-
+Link : [ https://discord.gg/gkXrKfs ]
+ **
+ [ ${member}  ]
+`)
 }).catch(console.error)
 
 })
  
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
-  return channel.send(` 
-**
-- اخوى ممكن طلب لو تقدر
-- ادخل هون صوتلى لو سمحت
-- رابط المسابقه مباشر لعيونك
-**
-مشترك رقم **11**
-
-**
-فضلا وليس امرا من فضلك**
- 
-- http://prntscr.com/km789v
-
-- https://discord.gg/gkXrKfs
-
-ممكن؟
-آمل أن تصوت لي... [ ${member}  ]
-**`) 
+  return channel.send(`
+** ي قلبي ابيك تصوت للمتسابق رقم 11
+ربي يسعدك ويدخلك الجنه لو صوتت 
+الله يسعدك :(
+-
+Photo : http://prntscr.com/km789v
+-
+Link : [ https://discord.gg/gkXrKfs ]
+ ** 
+[ ${member}  ]
+`) 
 }).catch(console.error)
 })
 
