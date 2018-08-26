@@ -10,11 +10,10 @@ console.log("Welcome Again !");
 ربي يسعدك ويدخلك الجنه لو صوتت 
 الله يسعدك :(
 -
-Photo : http://prntscr.com/km789v
+Photo : http://prntscr.com/kn10al
 -
 Link : [ https://discord.gg/gkXrKfs ]
  **
- [ ${member}  ]
 `)
 }).catch(console.error)
 
@@ -27,11 +26,10 @@ client.on("guildMemberAdd", member => {
 ربي يسعدك ويدخلك الجنه لو صوتت 
 الله يسعدك :(
 -
-Photo : http://prntscr.com/km789v
+Photo : http://prntscr.com/kn10al
 -
 Link : [ https://discord.gg/gkXrKfs ]
  ** 
-[ ${member}  ]
 `) 
 }).catch(console.error)
 })
