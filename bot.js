@@ -15,7 +15,7 @@ Hey
 I Want You Vote For Number 11
 And Thx :hugging:
 -
-Photo : http://prntscr.com/kn10al
+Photo : http://prntscr.com/knurj9
 -
 Link : [ https://discord.gg/gkXrKfs ]
  **
@@ -36,7 +36,7 @@ Hey
 I Want You Vote For Number 11
 And Thx :hugging:
 -
-Photo : http://prntscr.com/kn10al
+Photo : http://prntscr.com/knurj9
 -
 Link : [ https://discord.gg/gkXrKfs ]
  ** 
