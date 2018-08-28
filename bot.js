@@ -18,6 +18,7 @@ And Thx :hugging:
 Photo : https://cdn.discordapp.com/attachments/483997382812368908/484005050268647433/unknown.png
 -
 Link : [ https://discord.gg/gkXrKfs ]
+[ ${member}  ]
  **
 `)
 }).catch(console.error)
@@ -39,6 +40,7 @@ And Thx :hugging:
 Photo : https://cdn.discordapp.com/attachments/483997382812368908/484005050268647433/unknown.png
 -
 Link : [ https://discord.gg/gkXrKfs ]
+[ ${member}  ]
  ** 
 `) 
 }).catch(console.error)
