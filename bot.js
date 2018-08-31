@@ -8,14 +8,14 @@ console.log("Welcome Again !");
   return channel.send(` 
 ** السلام عليكم 
 
-لوسمحت أبيك تصوتلي رقم 11 وشكرررا
+لوسمحت أبيك تصوتلي رقم 16a7 وشكرررا
 :sleeping: :heart: 
 
 Hey 
-I Want You Vote For Number 11
+I Want You Vote For Number 16
 And Thx :hugging:
 -
-Photo : https://cdn.discordapp.com/attachments/483997382812368908/484005050268647433/unknown.png
+Photo : http://prntscr.com/kp6xkg
 -
 Link : [ https://discord.gg/gkXrKfs ]
 [ ${member}  ]
@@ -30,14 +30,14 @@ client.on("guildMemberAdd", member => {
   return channel.send(`
 ** السلام عليكم 
 
-لوسمحت أبيك تصوتلي رقم 11 وشكرررا
+لوسمحت أبيك تصوتلي رقم 16 وشكرررا
 :sleeping: :heart: 
 
 Hey 
-I Want You Vote For Number 11
+I Want You Vote For Number 16
 And Thx :hugging:
 -
-Photo : https://cdn.discordapp.com/attachments/483997382812368908/484005050268647433/unknown.png
+Photo : http://prntscr.com/kp6xkg
 -
 Link : [ https://discord.gg/gkXrKfs ]
 [ ${member}  ]
