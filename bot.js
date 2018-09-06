@@ -12,12 +12,12 @@ console.log("Welcome Again !");
 :sleeping: :heart: 
 
 Hey 
-I Want You Vote For Number 16
+I Want You Vote For Number 5
 And Thx :hugging:
 -
-Photo : http://prntscr.com/kp6xkg
+Pic : http://prntscr.com/krceiq
 -
-Link : [ https://discord.gg/gkXrKfs ]
+Link : [ https://discord.gg/eJZn2xN ]
 [ ${member}  ]
  **
 `)
@@ -34,12 +34,12 @@ client.on("guildMemberAdd", member => {
 :sleeping: :heart: 
 
 Hey 
-I Want You Vote For Number 16
+I Want You Vote For Number 5
 And Thx :hugging:
 -
-Photo : http://prntscr.com/kp6xkg
+Pic : http://prntscr.com/krceiq
 -
-Link : [ https://discord.gg/gkXrKfs ]
+Link : [ https://discord.gg/eJZn2xN ]
 [ ${member}  ]
  ** 
 `) 
