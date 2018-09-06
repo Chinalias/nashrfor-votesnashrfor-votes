@@ -8,7 +8,7 @@ console.log("Welcome Again !");
   return channel.send(` 
 ** السلام عليكم 
 
-لوسمحت أبيك تصوتلي رقم 16a7 وشكرررا
+لوسمحت أبيك تصوتلي رقم 16 وشكرررا
 :sleeping: :heart: 
 
 Hey 
